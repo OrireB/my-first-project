@@ -1,2 +1,3 @@
-Hello, World! This is my copied file from week1.
+Hello, World! This is my copied file from the repo created last week(command-line-basics).
 
+I am driven to learning Node.js because it allows me to build fast and scalable web applications elevating my cloud computing skills and staying up to date with industry trends. I hope to use Node.js to create unusual solutions and enhance my skills in the tech world.
