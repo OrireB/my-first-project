@@ -1,0 +1,6 @@
+1. Learn the Python and JavaScript within the next 6 month.
+2. Build a web application using Node.js.
+3. Practice Git and GitHub for version control.
+4. Improve problem-solving skills through Cloud Computing challenges.
+5. Contribute to open-source projects on GitHub.
+6. Develop a mobile app.
